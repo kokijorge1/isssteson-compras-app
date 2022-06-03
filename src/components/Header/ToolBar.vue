@@ -11,7 +11,7 @@
       </v-toolbar-side-icon>
       <v-layout row align-center>
         <v-flex xs3 sm2 md1 mr-2>
-          <!-- <v-img src="/img/LogoISSSTESON-01.png"></v-img> -->
+          <v-img src="/img/LogoISSSTESON-01.png"></v-img>
         </v-flex>
         <v-flex xs3 sm3 md3 lg3>
           <span class="font-weight-black title pri--text">eCompras</span>
