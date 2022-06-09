@@ -14,7 +14,7 @@
           <v-img src="/img/LogoISSSTESON-01.png"></v-img>
         </v-flex>
         <v-flex xs3 sm3 md3 lg3>
-          <span class="font-weight-black title pri--text">eCompras</span>
+          <!-- <span class="font-weight-black title pri--text">eCompras</span> -->
         </v-flex>
       </v-layout>
       <v-spacer></v-spacer>
